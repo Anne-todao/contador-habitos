@@ -31,3 +31,12 @@
   cursor: pointer;
   width: 100px;
 }
+
+.botaoInput {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+}
